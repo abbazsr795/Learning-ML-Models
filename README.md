@@ -1,3 +1,3 @@
-A graveyard of machine learning models I've built whilst learning
+**A graveyard of machine learning models I've built and learned from.**
 
-RIP
+*RIP Neural Prophet*
